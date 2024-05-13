@@ -97,3 +97,24 @@ body{
     }
     
     .escola{
+        background-image: linear-gradient(#ff00f281, #4cdada00);
+        color: #06135f;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 24px 0;
+        }
+        
+        .escola-div-conteudo{
+        width: 35%;
+        }
+        .escola-titulo{
+        padding: 24px 0;
+        }
+        
+        .estudante-imagem{
+        width: 120px;
+        }
+        .estudante-icone{
+        width: 24px;
+        }
